@@ -13,10 +13,10 @@ I'm a:
 - Game Maker
 
 ### You can find me at 
-- (Twitter)[https://twitter.com/Tehmerow]
-- (Bandcamp)[https://tehmerow.bandcamp.com/]
-- (Itch.io)[https://tehmerow.itch.io/]
-- (Sketchfab)[https://sketchfab.com/TehMerow]
-- (YouTube)[https://www.youtube.com/channel/UCHZya0ampSihYUbATYJxGGg]
+- [Twitter](https://twitter.com/Tehmerow)
+- [Bandcamp](https://tehmerow.bandcamp.com/)
+- [Itch.io](https://tehmerow.itch.io/)
+- [Sketchfab](https://sketchfab.com/TehMerow)
+- [YouTube](https://www.youtube.com/channel/UCHZya0ampSihYUbATYJxGGg)
 
-### Like what I do? Why not buy me a Coffee at (kofi)[https://ko-fi.com/tehmerow]
+### Like what I do? Why not buy me a Coffee at [kofi](https://ko-fi.com/tehmerow)
