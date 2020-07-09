@@ -3,14 +3,20 @@
 <!--
 **TehMerow/TehMerow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm TehMerow, you can also call me Merow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a: 
+- Music Maker 
+- 3DCG artist  
+- Visual artist 
+- Web Devveloper 
+- Game Maker
+
+### You can find me at 
+- (Twitter)[https://twitter.com/Tehmerow]
+- (Bandcamp)[https://tehmerow.bandcamp.com/]
+- (Itch.io)[https://tehmerow.itch.io/]
+- (Sketchfab)[https://sketchfab.com/TehMerow]
+- (YouTube)[https://www.youtube.com/channel/UCHZya0ampSihYUbATYJxGGg]
+
+### Like what I do? Why not buy me a Coffee at (kofi)[https://ko-fi.com/tehmerow]
