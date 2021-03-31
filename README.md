@@ -9,8 +9,11 @@ I'm a:
 - Music Maker 
 - 3DCG artist  
 - Visual artist 
-- Web Devveloper 
+- Web Developer 
 - Game Maker
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31DUBF)
 
 ### You can find me at 
 - [Twitter](https://twitter.com/Tehmerow)
@@ -18,5 +21,3 @@ I'm a:
 - [Itch.io](https://tehmerow.itch.io/)
 - [Sketchfab](https://sketchfab.com/TehMerow)
 - [YouTube](https://www.youtube.com/channel/UCHZya0ampSihYUbATYJxGGg)
-
-### Like what I do? Why not buy me a Coffee at [kofi](https://ko-fi.com/tehmerow)
