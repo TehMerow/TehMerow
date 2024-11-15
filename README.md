@@ -27,7 +27,6 @@ Find out much more on my personal website hosted by carrd https://tehmerow.carrd
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31DUBF)
 
 # You can find me at 
-- [Twitter](https://twitter.com/Tehmerow)
 - [Bandcamp](https://tehmerow.bandcamp.com/)
 - [Itch.io](https://tehmerow.itch.io/)
 - [Sketchfab](https://sketchfab.com/TehMerow)
